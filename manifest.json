@@ -4,15 +4,8 @@
   "description": "Daily Budget & Savings Tracker",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#08090E",
-  "theme_color": "#08090E",
+  "background_color": "#07080C",
+  "theme_color": "#07080C",
   "orientation": "portrait",
-  "icons": [
-    {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%2308090E'/><text x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-size='260' font-family='serif' font-weight='300' fill='%2367E8F9'>฿</text></svg>",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
+  "icons": [{"src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='108' fill='%2307080C'/><text x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-size='240' font-family='Georgia,serif' font-weight='300' fill='%2356CCE0'>฿</text></svg>","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}]
 }
