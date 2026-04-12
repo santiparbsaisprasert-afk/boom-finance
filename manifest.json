@@ -1,15 +1,15 @@
 {
   "name": "BOOM FINANCE",
   "short_name": "BOOM",
-  "description": "จัดการรายรับรายจ่าย Sync ทุกเครื่อง",
+  "description": "Daily Budget & Savings Tracker",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0A0A0F",
-  "theme_color": "#0A0A0F",
+  "background_color": "#08090E",
+  "theme_color": "#08090E",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%230A0A0F'/><text x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-size='280' font-family='monospace' font-weight='bold' fill='%2300E676'>฿</text></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%2308090E'/><text x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-size='260' font-family='serif' font-weight='300' fill='%2367E8F9'>฿</text></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
